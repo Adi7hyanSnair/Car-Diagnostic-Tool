@@ -17,7 +17,7 @@ From these Topics I shorlisted 3 topics Autonomous Vehicle Simulation Game, Car 
 Simulation Game because I was Not that much Confident in doing this project as this project was harder that the others and it will cost my time. As A First year B. Tech 
 Computer Science Engineering (AI) student The hardet thing I went through was managing my time.
 
-Finally I was stuck at the remaing 2 topics which are Car Te;emetry System and Car Diagnostic Tool
+Finally I was stuck at the remaing 2 topics which are Car Telemetry System and Car Diagnostic Tool
 #### Car Telemetry System
 A car telemetry system is like a remote monitoring system for your car. It uses sensors and software to:
 
