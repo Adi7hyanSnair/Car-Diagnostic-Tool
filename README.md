@@ -1,4 +1,4 @@
-# Car-Telemetry-System
+# Car-Diagnostic-Tool
 
 This is a project I chose to do in my First year of Under graduate Academics in the year 2024. 
 This project is also part of my internal assesment of my Object orinted Programming in java course.
@@ -36,4 +36,5 @@ A car diagnostic tool acts like a mechanic's stethoscope for your car's computer
   
 Think of it as a preliminary check engine light explainer. It can't fix the problem itself, but it gives you a starting point for diagnosis and repair.
 
-Finally I Chose Car Telemetry System without much specific reason.
+Finally I Chose Car Diagnostic Tool. The rason why I chose this because I am a big fan of Formala one and many other motorsports where The diagnostic tool is a 
+major part.
