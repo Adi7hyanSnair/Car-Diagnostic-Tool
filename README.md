@@ -18,7 +18,7 @@ Simulation Game because I was Not that much Confident in doing this project as t
 Computer Science Engineering (AI) student The hardet thing I went through was managing my time.
 
 Finally I was stuck at the remaing 2 topics which are Car Te;emetry System and Car Diagnostic Tool
-##### Car Telemetry System
+#### Car Telemetry System
 A car telemetry system is like a remote monitoring system for your car. It uses sensors and software to:
 
 * Collect data: Sensors throughout the car constantly measure things like engine performance, speed, fuel level, and even tire pressure.
@@ -26,7 +26,7 @@ A car telemetry system is like a remote monitoring system for your car. It uses 
 * Analyze data: The system can analyze the data to identify trends, potential problems, or areas for improvement.
   
 Think of it as a fitness tracker for your car, giving you valuable insights into its health and performance.
-##### Car Diagnostic Tool
+#### Car Diagnostic Tool
 A car diagnostic tool acts like a mechanic's stethoscope for your car's computer. Here's a quick rundown:
 
 * Plugs into your car: It connects to a special port (OBD-II) usually located under the dashboard.
